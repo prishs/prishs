@@ -4,7 +4,7 @@
 
 **Reach Out**
 - :speech_balloon: Ask me about anything [here](https://github.com/prishs/prishs/discussions)
-- :computer: Want to collaborate? Connect me on [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritam-sshah)
+- :computer: Want to collaborate? Connect me on [![](https://img.shields.io/badge/pritamshah-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritam-sshah)
 
 <!-- - <div style="display:flex;flex-wrap:wrap;"> :computer: If want to collaborate, Connect me on <a style="text-decoration:none !important;" href="https://www.linkedin.com/in/pritam-sshah"> <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="Linkedin" title="Linkedin"></div> -->
 
