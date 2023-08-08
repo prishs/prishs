@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 **About Me**
+Technology Enthusiast, Researcher
 
 **Reach Out**
 - :speech_balloon: Ask me about anything [here](https://github.com/prishs/prishs/discussions)
